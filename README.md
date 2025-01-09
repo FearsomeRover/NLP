@@ -131,3 +131,4 @@ select DISTINCT ?id  WHERE {
     limit 10
 
 [Lecture Notes](https://docs.craft.do/editor/d/f8eb6938-2344-78ed-f381-eeb1c9b2cc77/d3b618d6-8eb8-4bc2-aee2-661e11133ea9/b/04B63A13-630D-49CE-8E17-FCA109144169/SPARQL?s=Zx3rAdYMuZyHPNU9dkoWrfTdyrPNMadmeNg6wstAKaCQ)
+[Colab references](https://colab.research.google.com/drive/1ltYGjWM0GnyV4ajzvNPx-hYtF7jQAQJC?usp=sharing)
